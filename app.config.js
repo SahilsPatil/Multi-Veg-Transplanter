@@ -1,9 +1,9 @@
-{
-  "expo": {
-    "name": "Multi-Veg Transplanter",
-    "slug": "multi-veg-transplanter",
-    "version": "1.0.0",
-    "runtimeVersion": "1.0.0",
+export default {
+  expo: {
+    name: "Multi-Veg Transplanter",
+    slug: "multi-veg-transplanter",
+    version: "1.0.0",
+    runtimeVersion: "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "myapp",
@@ -25,7 +25,6 @@
         "foregroundImage": "./assets/images/icon.png",
         "backgroundColor": "#ffffff"
       },
-      "runtimeVersion": "1.0.0",
       "package": "com.bhumiputra.multivegtransplanter"
     },
     "web": {
@@ -57,4 +56,4 @@
     },
     "owner": "daviel.fawzi"
   }
-}
+};
